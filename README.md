@@ -1,6 +1,6 @@
 # JN.1_short
 
-A supplemental table for the GISAID datasets used in the following study.
+A supplemental table for the GISAID datasets used in the following studies.
 
 Kaku et al. 2024. Virological characteristics of the SARS-CoV-2 JN.1 variant. Lancet Infectious Disease. 24: e82. doi: 10.1016/S1473-3099(23)00813-7\
 Kaku et al. 2023. Virological characteristics of the SARS-CoV-2 JN.1 variant. bioRxiv. doi: 10.1101/2023.12.08.570782
