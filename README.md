@@ -1,4 +1,4 @@
-# JN.1_short
+# Virological characteristics of the SARS-CoV-2 JN.1 variant
 
 The supplemental tables for the GISAID datasets used in the following studies.
 
